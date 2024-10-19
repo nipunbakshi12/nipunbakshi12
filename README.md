@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/nipunbakshi12/nipunbakshi12/blob/main/banner(2).png)
 <h1 align="center">Hi 👋, I'm Nipun Bakshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
